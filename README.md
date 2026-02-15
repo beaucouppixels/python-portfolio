@@ -57,9 +57,8 @@ This portfolio showcases practical solutions to real-world problems, demonstrati
 
 ## Connect With Me
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
-- **Blog:** [Your Tech Blog](https://yourblog.com) *(coming soon)*
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/stoo)
+
 
 ## License
 
