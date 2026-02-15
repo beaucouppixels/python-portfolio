@@ -57,7 +57,7 @@ This portfolio showcases practical solutions to real-world problems, demonstrati
 
 ## Connect With Me
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/stoo)
+- **LinkedIn:** (https://linkedin.com/in/stoo)
 
 
 ## License
