@@ -72,3 +72,16 @@ ACTION_PLAN.md
 GITHUB_PROFILE_README_TEMPLATE.md
 SETUP_GUIDE.md
 
+# Ignore unrelated files
+AudibleToGoodreads.py
+
+# Ignore scraper output files
+webscraper/*_listings.txt
+webscraper/debug_*.html
+
+# Ignore temporary/debug files
+*.pyc
+__pycache__/
+.DS_Store
+*.backup
+
